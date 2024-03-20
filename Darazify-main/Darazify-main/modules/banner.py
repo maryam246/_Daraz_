@@ -18,7 +18,7 @@ class Banner:
         print(f'''
 
                                         {Fore.RED}♥{Style.RESET_ALL} v 1.01 {Fore.LIGHTCYAN_EX}♥{Style.RESET_ALL}
-                                Created by : {Fore.CYAN}RaNa MazHar Naseer{Style.RESET_ALL}
+                                Created by : {Fore.CYAN} MaRyAm KhANaM{Style.RESET_ALL}
                                   {Fore.RED}https://github.com/mazuu06{Style.RESET_ALL}
                                     
             {Fore.WHITE}Welcome to {Style.RESET_ALL}
