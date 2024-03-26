@@ -2,7 +2,7 @@
 # Darazify
 
 
-Darazify is a python base script that is use to find products that have maxium discount. It is very useful tool for every internet user who want to find discounted products on daraz. This script can scrape all products that you want. It can run on Windows, Linux and MAC OS.
+Darazify is a python base script that is use to find products that have maxium discount. It is very useful tool for every internet user who want to find discounted products on daraz. This script can **scrape** all products that you want. It can run on Windows, Linux and MAC OS.
 
 
 
